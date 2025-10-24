@@ -1,0 +1,20 @@
+{
+  "name": "playvid-backend",
+  "version": "1.0.0",
+   "description": "A scalable backend API for a YouTube-like video sharing platform built with Node.js, Express, and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "MongoDB",
+    "video-platform",
+    "rest-api",
+    "backend",
+    "playvid",
+  ],
+  "author": "Abdul Samad",
+  "license": "MIT"
+}
